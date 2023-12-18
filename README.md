@@ -1,14 +1,14 @@
 # iranbenitez
-# [Your Name]
 
 ## About Me
 
-Hello! I'm [Your Name], a passionate [Your Profession/Role] with a keen interest in [Your Interests]. I love working on [specific technologies or projects], and I'm always eager to learn new things.
+Hello! I'm Iran Benitez, a passionate business analytics master's student with a keen interest in macroeconomics and finance. I love working on preditive analysis, and I'm always eager to learn new things.
 
 ## Skills
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
-- Programming Languages: [List of programming languages you are proficient in]
+- Programming Languages:
+- ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+- ![R Logo](https://www.r-project.org/logo/Rlogo.svg)
 - Frameworks and Libraries: [List of frameworks and libraries you are familiar with]
 - Databases: [List of databases you have experience with]
 - Other Technologies: [Any other relevant technologies]
@@ -38,7 +38,7 @@ I actively contribute to open-source projects. Some of my notable contributions 
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [https://www.linkedin.com/in/iranbenitez/]
 - Twitter: [Your Twitter Handle]
 - Website/Blog: [Your personal website or blog]
 - Email: [Your Email Address]
